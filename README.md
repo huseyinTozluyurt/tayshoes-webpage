@@ -1,12 +1,50 @@
-# React + Vite
+# TayShoes Web Application 👟
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TayShoes is a stylish and responsive e-commerce web application built with **React + Vite**. It simulates a shoe store where users can browse products, log in, and interact with the shopping interface. Admins can control the platform via a separate interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔥 Key Features
 
-## Expanding the ESLint configuration
+- 🔐 **Login system** with default user/admin accounts (no backend required for testing)
+- 🛒 **Shopping page** with dynamic product listing
+- 👤 **Role-based routing** for user and admin experiences
+- 🎨 **Responsive UI** using custom CSS and React components
+- ⚡ **Built with Vite** for blazing-fast development and HMR
+- 🖼️ Product images fetched from `src/products` folder
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧑‍💼 Default Credentials
+
+Use these for testing:
+
+### 👤 User
+- **Email**: `user@example.com`
+- **Password**: `user123`
+
+### 👮 Admin
+- **Email**: `admin@example.com`
+- **Password**: `admin123`
+
+---
+
+## 🧰 Tech Stack
+
+| Layer       | Tech            |
+|-------------|-----------------|
+| Frontend    | React (with Hooks & Router) |
+| Build Tool  | Vite            |
+| Styling     | Custom CSS      |
+| HTTP Client | Axios (optional)|
+| Backend     | *Coming soon (Node.js + Express + MySQL)* |
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/huseyinTozluyurt/tayshoes-webpage.git
+cd tayshoes-webpage
