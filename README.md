@@ -48,3 +48,34 @@ Use these for testing:
 ```bash
 git clone https://github.com/huseyinTozluyurt/tayshoes-webpage.git
 cd tayshoes-webpage
+
+## 📸 Screenshots
+
+### 🏠 Main Page
+![Main Page](./screenshots/mainpage.png)
+
+### 🔐 Login Page
+![Login](./screenshots/login.png)
+
+### 📄 Footer Section
+![Footer](./screenshots/footer.png)
+
+### 📝 Register Page
+![Register](./screenshots/register.png)
+
+### 📦 Products (Example 1)
+![Products](./screenshots/products1.png)
+
+
+### 📦 Products (Example 2)
+![Products](./screenshots/products2.png)
+
+
+### 📦 Products (Example 3)
+![Products](./screenshots/products3.png)
+
+
+
+
+
+
