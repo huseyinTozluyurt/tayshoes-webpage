@@ -11,7 +11,7 @@ TayShoes is a stylish and responsive e-commerce web application built with **Rea
 - 👤 **Role-based routing** for user and admin experiences
 - 🎨 **Responsive UI** using custom CSS and React components
 - ⚡ **Built with Vite** for blazing-fast development and HMR
-- 🖼️ Product images fetched from `src/products` folder
+- 🖼️ Product images fetched from `public/products` folder
 
 ---
 
