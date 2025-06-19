@@ -40,15 +40,6 @@ Use these for testing:
 | Backend     | *Coming soon (Node.js + Express + MySQL)* |
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/huseyinTozluyurt/tayshoes-webpage.git
-cd tayshoes-webpage
-
 ## 📸 Screenshots
 
 ### 🏠 Main Page
@@ -75,6 +66,15 @@ cd tayshoes-webpage
 ![Products](./screenshots/products3.png)
 
 
+
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/huseyinTozluyurt/tayshoes-webpage.git
+cd tayshoes-webpage
 
 
 
